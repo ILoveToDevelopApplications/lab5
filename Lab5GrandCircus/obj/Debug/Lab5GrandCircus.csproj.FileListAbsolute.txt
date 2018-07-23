@@ -1,0 +1,2 @@
+c:\users\an image of god\source\repos\Lab5-GrandCircus\Lab5GrandCircus\obj\Debug\Lab5GrandCircus.csprojAssemblyReference.cache
+c:\users\an image of god\source\repos\Lab5-GrandCircus\Lab5GrandCircus\obj\Debug\Lab5GrandCircus.csproj.CoreCompileInputs.cache
